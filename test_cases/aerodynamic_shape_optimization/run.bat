@@ -1,0 +1,1 @@
+C:\\Python27\\python.exe C:\Users\zhangyw\Desktop\EXAMPLE\RAE2822_OPT\opt\DV=0.01,0.01,0.01,0.01,0.01,0.01\rae2822_eval.py -n 8 -f C:\Users\zhangyw\Desktop\EXAMPLE\RAE2822_OPT\opt\DV=0.01,0.01,0.01,0.01,0.01,0.01\DV6_ITER2000.cfg

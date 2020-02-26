@@ -1,1 +1,3 @@
-# ATRDE
+# Adaptive Tabu Region-based Differential Evolution for Expensive Constrained Optimization
+
+This repository contains the source code (written in MATLAB) of the proposed Adaptive Tabu Region-based Differential Evolution (ATRDE) and the test examples in paper *Adaptive Tabu Region-based Differential Evolution for Expensive Constrained Optimization* by Yunwei Zhang, Chunlin Gong (leonwood@nwpu.edu.cn), Chunna Li, Jianjun Gou, and Andrea Da Ronch.
